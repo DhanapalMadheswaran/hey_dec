@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "6130a162ef6336b6e2ed11e2"
+  },
+  "status": "Active",
+  "redirectUrl": "fdgdfgfd",
+  "bannerText": "Minimal Wedding",
+  "image": {
+    "asset_id": "0f6b73c64613673715ea12fd3a9faf3d",
+    "public_id": "banner/aonn8jp3kibfeb6y9ydy",
+    "version": 1630585643,
+    "version_id": "44f608340f964ba0218cc7f18dc9976f",
+    "signature": "fb462afe938dc4f9a923d8ad2b4e8e4300421933",
+    "width": 332,
+    "height": 377,
+    "format": "jpg",
+    "resource_type": "image",
+    "created_at": "2021-09-02T12:27:23Z",
+    "tags": [],
+    "bytes": 23811,
+    "type": "upload",
+    "etag": "c4ab16660bc2ca22f46f70b656b8335b",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dsczip846/image/upload/v1630585643/banner/aonn8jp3kibfeb6y9ydy.jpg",
+    "secure_url": "https://res.cloudinary.com/dsczip846/image/upload/v1630585643/banner/aonn8jp3kibfeb6y9ydy.jpg",
+    "access_mode": "public",
+    "original_filename": "minimal-wedding-img"
+  },
+  "createdTime": {
+    "$date": "2021-09-02T10:03:14.558Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6130a1b7ef6336b6e2ed11e9"
+  },
+  "status": "Active",
+  "redirectUrl": "dsfsdaf",
+  "bannerText": "Intimate Wedding",
+  "image": {
+    "asset_id": "9eb1a0e4e829bde0a56c292864362486",
+    "public_id": "banner/igstg5xyi7mdeiac707b",
+    "version": 1630585664,
+    "version_id": "76581710c17f624041ebaf6c18996e0d",
+    "signature": "87e80552ed91656a3680d11f74d1f01e15a5b55c",
+    "width": 332,
+    "height": 377,
+    "format": "jpg",
+    "resource_type": "image",
+    "created_at": "2021-09-02T12:27:44Z",
+    "tags": [],
+    "bytes": 52792,
+    "type": "upload",
+    "etag": "b806ff1ce223a4b1213256903a5d5d96",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dsczip846/image/upload/v1630585664/banner/igstg5xyi7mdeiac707b.jpg",
+    "secure_url": "https://res.cloudinary.com/dsczip846/image/upload/v1630585664/banner/igstg5xyi7mdeiac707b.jpg",
+    "access_mode": "public",
+    "original_filename": "intimate-wedding-img"
+  },
+  "createdTime": {
+    "$date": "2021-09-02T10:04:39.490Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6130bcd246ad92050e2db526"
+  },
+  "status": "Active",
+  "redirectUrl": "xzczxczxczx",
+  "bannerText": "Regal Wedding",
+  "image": {
+    "asset_id": "aff55eb79cbbc76e1ab1e062b1af926c",
+    "public_id": "banner/aur0u7tng8jhvws6ukdb",
+    "version": 1630658522,
+    "version_id": "9c4cfdf0c228a772fd6c14054ba87edb",
+    "signature": "d17216915dbd67d8ba9322f6e88ac65f58c9bba9",
+    "width": 699,
+    "height": 396,
+    "format": "jpg",
+    "resource_type": "image",
+    "created_at": "2021-09-03T08:42:02Z",
+    "tags": [],
+    "bytes": 102676,
+    "type": "upload",
+    "etag": "615046681acaf61ed7cde68f90a916bf",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dsczip846/image/upload/v1630658522/banner/aur0u7tng8jhvws6ukdb.jpg",
+    "secure_url": "https://res.cloudinary.com/dsczip846/image/upload/v1630658522/banner/aur0u7tng8jhvws6ukdb.jpg",
+    "access_mode": "public",
+    "original_filename": "regal-wedding-img"
+  },
+  "createdTime": {
+    "$date": "2021-09-02T12:00:18.959Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6130c099dfccc4108a357b9d"
+  },
+  "status": "Active",
+  "redirectUrl": "xzcxzcxzcx",
+  "bannerText": "Surprise Party",
+  "image": {
+    "asset_id": "2bf05a808eb44dbbb4502182859c19a2",
+    "public_id": "banner/eb5dl8fsuvbnv3rer2tl",
+    "version": 1630585601,
+    "version_id": "781a51589c3b10a8bfac3ceba8d9da8c",
+    "signature": "bea6ea118d23b83f6d0aff9a3ff2f9a7994f950f",
+    "width": 692,
+    "height": 798,
+    "format": "jpg",
+    "resource_type": "image",
+    "created_at": "2021-09-02T12:26:41Z",
+    "tags": [],
+    "bytes": 177842,
+    "type": "upload",
+    "etag": "3ce2bcb5dbfe3be6d1b8059b8f8f2643",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dsczip846/image/upload/v1630585601/banner/eb5dl8fsuvbnv3rer2tl.jpg",
+    "secure_url": "https://res.cloudinary.com/dsczip846/image/upload/v1630585601/banner/eb5dl8fsuvbnv3rer2tl.jpg",
+    "access_mode": "public",
+    "original_filename": "happy-birthday-img"
+  },
+  "createdTime": {
+    "$date": "2021-09-02T12:16:25.371Z"
+  },
+  "__v": 0
+}]

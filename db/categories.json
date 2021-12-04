@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "6130bb31a62985ff735a9e74"
+  },
+  "status": "Active",
+  "name": "Wedding",
+  "image": {
+    "asset_id": "df2c39f60b1fc1e010b7ba10f7ac7f84",
+    "public_id": "category/epkcyrwmj2uxmbuwspgi",
+    "version": 1630583600,
+    "version_id": "f4fef9e47703df020c50c7a34a876330",
+    "signature": "77abb7a11562c4ff07153067b2197b55e7d66731",
+    "width": 16,
+    "height": 16,
+    "format": "svg",
+    "resource_type": "image",
+    "created_at": "2021-09-02T11:53:20Z",
+    "tags": [],
+    "bytes": 394,
+    "type": "upload",
+    "etag": "daf6587d72aa9b410c87db5586db1b8e",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dsczip846/image/upload/v1630583600/category/epkcyrwmj2uxmbuwspgi.svg",
+    "secure_url": "https://res.cloudinary.com/dsczip846/image/upload/v1630583600/category/epkcyrwmj2uxmbuwspgi.svg",
+    "access_mode": "public",
+    "original_filename": "star-fill"
+  },
+  "createdTime": {
+    "$date": "2021-09-02T11:53:21.786Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6130bb66a62985ff735a9e77"
+  },
+  "status": "Active",
+  "name": "Photography",
+  "image": {
+    "asset_id": "d398da9b34d189564121a2de4ebd1d55",
+    "public_id": "category/jletpviwq8hfnosvxros",
+    "version": 1630583652,
+    "version_id": "69abf3f0caa85bcd33bf23f85d3890a4",
+    "signature": "e9248307b9d6bc75079574bb9293528fdb7ab5a2",
+    "width": 16,
+    "height": 16,
+    "format": "svg",
+    "resource_type": "image",
+    "created_at": "2021-09-02T11:54:12Z",
+    "tags": [],
+    "bytes": 394,
+    "type": "upload",
+    "etag": "daf6587d72aa9b410c87db5586db1b8e",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dsczip846/image/upload/v1630583652/category/jletpviwq8hfnosvxros.svg",
+    "secure_url": "https://res.cloudinary.com/dsczip846/image/upload/v1630583652/category/jletpviwq8hfnosvxros.svg",
+    "access_mode": "public",
+    "original_filename": "star-fill"
+  },
+  "createdTime": {
+    "$date": "2021-09-02T11:54:14.487Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6130bb93f475190147c37cf9"
+  },
+  "status": "Active",
+  "name": "Engagement",
+  "image": {
+    "asset_id": "621b0a507d44975db8173a1095186f60",
+    "public_id": "category/qkivrsq0erpfxh6oljqj",
+    "version": 1630583697,
+    "version_id": "27e1a74d47d547fca6200b7f2d070704",
+    "signature": "c3f49035805dd68185b6acdbd8722ab484201775",
+    "width": 16,
+    "height": 16,
+    "format": "svg",
+    "resource_type": "image",
+    "created_at": "2021-09-02T11:54:57Z",
+    "tags": [],
+    "bytes": 394,
+    "type": "upload",
+    "etag": "daf6587d72aa9b410c87db5586db1b8e",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dsczip846/image/upload/v1630583697/category/qkivrsq0erpfxh6oljqj.svg",
+    "secure_url": "https://res.cloudinary.com/dsczip846/image/upload/v1630583697/category/qkivrsq0erpfxh6oljqj.svg",
+    "access_mode": "public",
+    "original_filename": "star-fill"
+  },
+  "createdTime": {
+    "$date": "2021-09-02T11:54:59.920Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6130bba0f475190147c37cfc"
+  },
+  "status": "Active",
+  "name": "Birthday party",
+  "image": {
+    "asset_id": "6935c57375c7e49bebc338e9b8044f08",
+    "public_id": "category/w4emgjxep39fsknj2xyk",
+    "version": 1630583710,
+    "version_id": "5ae36b9e57b99805d8bff1495377ef1e",
+    "signature": "a4d8e2d27675e5ee300850952b302cbe97ebe63f",
+    "width": 16,
+    "height": 16,
+    "format": "svg",
+    "resource_type": "image",
+    "created_at": "2021-09-02T11:55:10Z",
+    "tags": [],
+    "bytes": 394,
+    "type": "upload",
+    "etag": "daf6587d72aa9b410c87db5586db1b8e",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dsczip846/image/upload/v1630583710/category/w4emgjxep39fsknj2xyk.svg",
+    "secure_url": "https://res.cloudinary.com/dsczip846/image/upload/v1630583710/category/w4emgjxep39fsknj2xyk.svg",
+    "access_mode": "public",
+    "original_filename": "star-fill"
+  },
+  "createdTime": {
+    "$date": "2021-09-02T11:55:12.866Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61481501fd35d95fe5b4e30d"
+  },
+  "status": "Active",
+  "name": "EventSpace",
+  "image": {
+    "error": {
+      "message": "Zero-sized SVG is invalid"
+    }
+  },
+  "createdTime": {
+    "$date": "2021-09-20T04:58:41.600Z"
+  },
+  "__v": 0
+}]
