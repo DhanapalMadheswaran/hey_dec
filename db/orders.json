@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "61a09f49f8fe682354abe9a8"
+  },
+  "vendorID": {
+    "$oid": "61235dc49ae63daf64da97d9"
+  },
+  "seating": "cluster",
+  "event_date": "27/11/2021",
+  "booking_date": "26/11/2021 02:18 PM",
+  "total_amount": "200000",
+  "amount_received": "1000",
+  "payment_status": "partially_paid",
+  "status": "booked",
+  "customer_id": "61a70fabeec4cd1a406a6267",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a0a538516f1b0d146eea5f"
+  },
+  "vendorID": {
+    "$oid": "6125cdeba9d8b67d2d488057"
+  },
+  "session": "4.30AM - 9.30AM",
+  "seating": "Theatre",
+  "event_date": "26/11/2021",
+  "booking_date": "26/11/2021 02:43 PM",
+  "total_amount": "200000",
+  "amount_received": "20000",
+  "payment_status": "partially_paid",
+  "status": "booked",
+  "customer_id": "619f26533337601c488ed12b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a46fbbb17933099415ff52"
+  },
+  "vendorID": {
+    "$oid": "6125cdeba9d8b67d2d488057"
+  },
+  "session": "10:30AM - 3:30PM",
+  "seating": "Chevron",
+  "event_date": "29/11/2021",
+  "booking_date": "29/11/2021 11:44 AM",
+  "total_amount": "200000",
+  "amount_received": "20000",
+  "payment_status": "partially_paid",
+  "status": "booked",
+  "customer_id": "619f26533337601c488ed12b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aaf0c4d8c89d26301ec0b8"
+  },
+  "vendorID": {
+    "$oid": "61235dc49ae63daf64da97d9"
+  },
+  "session": "4.30PM - 9.30PM",
+  "seating": "Theatre",
+  "event_date": "04/12/2021",
+  "booking_date": "04/12/2021 10:08 AM",
+  "total_amount": "200000",
+  "amount_received": "1000",
+  "payment_status": "partially_paid",
+  "status": "booked",
+  "customer_id": "619f26533337601c488ed12b",
+  "__v": 0
+}]

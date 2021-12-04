@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "611f8a3b394a9a85bbcd973e"
+  },
+  "status": "Active",
+  "redirectUrl": "http://localhost:3000/slider",
+  "sliderText": "Book Your Wedding Venue & much more!",
+  "image": {
+    "asset_id": "29553e3ba9ec1dd335cdf535025a7cc3",
+    "public_id": "slider/lczcdcmcx87qutc93byn",
+    "version": 1629456955,
+    "version_id": "7616d6ca2ec42ddadffad83802e210da",
+    "signature": "9e3fb9e52db94409146d02b531b5d8feabd2521f",
+    "width": 960,
+    "height": 1200,
+    "format": "jpg",
+    "resource_type": "image",
+    "created_at": "2021-08-20T10:55:55Z",
+    "tags": [],
+    "bytes": 179370,
+    "type": "upload",
+    "etag": "8bc3a8078f6ab3fb1cd7d4b71709aa03",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dsczip846/image/upload/v1629456955/slider/lczcdcmcx87qutc93byn.jpg",
+    "secure_url": "https://res.cloudinary.com/dsczip846/image/upload/v1629456955/slider/lczcdcmcx87qutc93byn.jpg",
+    "access_mode": "public",
+    "original_filename": "banner-img-1"
+  },
+  "createdTime": {
+    "$date": "2021-08-20T10:55:55.914Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611f8a91394a9a85bbcd9747"
+  },
+  "status": "Active",
+  "redirectUrl": "http://localhost:3000/slider",
+  "sliderText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "image": {
+    "asset_id": "70a379cf7a69e6f945f0b05f3508dfdc",
+    "public_id": "slider/dbphundom8cuudxocje0",
+    "version": 1629457040,
+    "version_id": "12d49eb20bd173c52e7aa7e24c32cd58",
+    "signature": "0f414c68b78d12247461c63cf9d255cef9874631",
+    "width": 960,
+    "height": 1200,
+    "format": "jpg",
+    "resource_type": "image",
+    "created_at": "2021-08-20T10:57:20Z",
+    "tags": [],
+    "bytes": 187816,
+    "type": "upload",
+    "etag": "2c3c83f0642e0e866a378b493308616d",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dsczip846/image/upload/v1629457040/slider/dbphundom8cuudxocje0.jpg",
+    "secure_url": "https://res.cloudinary.com/dsczip846/image/upload/v1629457040/slider/dbphundom8cuudxocje0.jpg",
+    "access_mode": "public",
+    "original_filename": "banner-img-2"
+  },
+  "createdTime": {
+    "$date": "2021-08-20T10:57:21.050Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611f8abd394a9a85bbcd974d"
+  },
+  "status": "Active",
+  "redirectUrl": "http://localhost:3000/slider1",
+  "sliderText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "image": {
+    "asset_id": "4160dcfab848dd4706699f0e2d2de2b0",
+    "public_id": "slider/pd9qrtf0ytpcajhqt6s9",
+    "version": 1629457084,
+    "version_id": "ddcedfc185be284acc77ac69368f3543",
+    "signature": "9a4d53c78a4e8dd27471562ff69e3468657c11ec",
+    "width": 960,
+    "height": 1200,
+    "format": "jpg",
+    "resource_type": "image",
+    "created_at": "2021-08-20T10:58:04Z",
+    "tags": [],
+    "bytes": 202280,
+    "type": "upload",
+    "etag": "e41ed364633b462e6ecb3935b29fe5fa",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dsczip846/image/upload/v1629457084/slider/pd9qrtf0ytpcajhqt6s9.jpg",
+    "secure_url": "https://res.cloudinary.com/dsczip846/image/upload/v1629457084/slider/pd9qrtf0ytpcajhqt6s9.jpg",
+    "access_mode": "public",
+    "original_filename": "banner-img-3"
+  },
+  "createdTime": {
+    "$date": "2021-08-20T10:58:05.077Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6130a84326a8e6c4c96492ce"
+  },
+  "status": "Active",
+  "redirectUrl": "http://localhost:3000/slider",
+  "sliderText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "image": {
+    "asset_id": "e9d619ed6d07affaeb70c92e63200839",
+    "public_id": "slider/hwnei8pip3vn0qjbyfxl",
+    "version": 1630578754,
+    "version_id": "f8a30afc90cc2beb6b9dc0b6026f1f39",
+    "signature": "584a8e1035bc1842f08b663142c5f7cb4d91a0cc",
+    "width": 280,
+    "height": 300,
+    "format": "jpg",
+    "resource_type": "image",
+    "created_at": "2021-09-02T10:32:34Z",
+    "tags": [],
+    "bytes": 12257,
+    "type": "upload",
+    "etag": "51528dd10bb02d1c38a892d760573b07",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dsczip846/image/upload/v1630578754/slider/hwnei8pip3vn0qjbyfxl.jpg",
+    "secure_url": "https://res.cloudinary.com/dsczip846/image/upload/v1630578754/slider/hwnei8pip3vn0qjbyfxl.jpg",
+    "access_mode": "public",
+    "original_filename": "1"
+  },
+  "createdTime": {
+    "$date": "2021-09-02T10:32:35.140Z"
+  },
+  "__v": 0
+}]

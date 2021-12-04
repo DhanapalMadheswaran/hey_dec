@@ -1,0 +1,80 @@
+/*-----------------------------------
+    Small devices (landscape phones, 360px and up - SM)
+------------------------------------*/
+@media (min-width: 360px) and (max-width: 478px) {
+  .logo-clr {
+    visibility: hidden;
+  }
+  .flex-container > div {
+    float: none;
+  }
+  #carousel {
+    visibility: hidden;
+  }
+  .box-layout {
+    width: 100%;
+  }
+
+  .nav-div-align {
+    padding-left: 0px;
+  }
+}
+
+/*-----------------------------------
+    Medium devices (landscape phones, 479px and up) - MD
+------------------------------------*/
+@media (min-width: 479px) and (max-width: 1024px) {
+  .logo-clr {
+    visibility: visible;
+  }
+  .flex-container > div {
+    float: none;
+  }
+  #carousel {
+    visibility: visible;
+  }
+  .box-layout {
+    width: 100%;
+  }
+  .nav-div-align {
+    padding-left: 0px;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1440px) {
+  .logo-clr {
+    visibility: visible;
+  }
+  .flex-container > div {
+    float: left;
+  }
+  #carousel {
+    visibility: visible;
+  }
+  .box-layout {
+    width: 25%;
+  }
+  .nav-div-align {
+    padding-left: 120px;
+  }
+}
+/*-----------------------------------
+    Extra Large devices (desktops, 1441px and up) - XL
+------------------------------------*/
+@media (min-width: 1441px) and (max-width: 1920px) {
+  .logo-clr {
+    visibility: visible;
+  }
+  .flex-container > div {
+    float: left;
+  }
+  #carousel {
+    visibility: visible;
+  }
+  .box-layout {
+    width: 25%;
+  }
+  .nav-div-align {
+    padding-left: 120px;
+  }
+}

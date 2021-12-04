@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "611a11fd61eda67fa69c996b"
+  },
+  "email": "dhana@d.com",
+  "password": "$2b$10$o367j5/FEenkIfY2Ab.jVO83xgCtAEkwqt6fcap5ZLN.qAcKowieK",
+  "__v": 0,
+  "name": "Admin",
+  "role": "1"
+},{
+  "_id": {
+    "$oid": "619f26533337601c488ed12b"
+  },
+  "email": "dhanapal@gmail.com",
+  "password": "$2b$10$uXv77vBhjkMCV5eX620pruoDE5jd4BNUzvTLwsZMzxaElPsW3z79K",
+  "phone": "9952526257",
+  "role": "2",
+  "__v": 0,
+  "name": "Customer"
+},{
+  "_id": {
+    "$oid": "61a70fabeec4cd1a406a6267"
+  },
+  "email": "user@gmail.com",
+  "password": "$2b$10$ZDj72hxsu.V.vkvkoIw9RepTFSzUfKP5p8B7kAhRf/U0HXen/at6i",
+  "name": "New User",
+  "phone": "99525266257",
+  "role": "3",
+  "__v": 0
+}]

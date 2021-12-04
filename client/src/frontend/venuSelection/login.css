@@ -1,0 +1,153 @@
+.login-nav-alignment {
+  position: absolute;
+  text-align: right;
+  top: 40px;
+  left: 730px;
+}
+.login-part {
+  font-family: "Montserrat", serif;
+}
+.login-block {
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.login-block h3 {
+  color: #fff;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.login-block .form-control {
+  color: #333 !important;
+  margin-bottom: 10px;
+}
+.other-option {
+  margin: 24px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.other-option p {
+  font-size: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+.other-option a p {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 10px;
+}
+.login-option i {
+  font-size: 18px;
+  margin-right: 5px;
+}
+.login-btn button {
+  width: 100%;
+  margin-top: 5px;
+}
+.reg-btn {
+  width: 100% !important;
+}
+.reg-btn button {
+  width: 100%;
+  margin-top: 5px;
+}
+.lunch-popup {
+  color: #fff !important;
+  line-height: 0px;
+}
+.lunch-popup p {
+  font-size: 22px;
+}
+.lunch-popup img {
+  background-color: #fff;
+  height: 15px;
+}
+.count-guest img {
+  background-color: #fff;
+}
+.count-guest .value-button {
+  width: 35px;
+  height: 28px;
+}
+.count-guest #number {
+  width: 45px;
+  height: 29px !important;
+  font-size: 18px;
+}
+.count-guest {
+  margin-top: -10px;
+}
+.menu-list-type {
+  text-align: start;
+  color: #fff;
+  font-weight: bold;
+  margin-left: 29px;
+  font-size: 20px;
+}
+.menu-list-type hr {
+  background-color: #fff;
+  width: 70%;
+  margin-left: 0px;
+  margin-top: -8px;
+}
+.menu-list-type h6 {
+  font-weight: bold;
+  font-size: 15px;
+  color: #fff !important;
+  line-height: 15px;
+}
+
+.menu-bg-color {
+  background-color: #801c17;
+  padding: 15px;
+}
+.platinum-title p {
+  color: #fff;
+  font-weight: bold;
+  text-align: initial;
+}
+.platinum-title h6 {
+  color: #fff;
+  text-align: initial;
+}
+.platinum-title hr {
+  background-color: #fff;
+  width: 72px;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+.head-price h4 {
+  margin-left: -15px;
+  text-align: initial;
+  color: #fff;
+  font-weight: bold;
+  line-height: 20px;
+}
+.head-price span {
+  font-size: 12px;
+  font-weight: normal !important;
+  color: #fff;
+}
+.edit-btn button {
+  padding: 5px;
+  font-size: 10px;
+}
+.menu-hr {
+  background-color: #fff;
+}
+.platinum-menu {
+  font-size: 28px;
+  text-align: initial;
+  color: #fff;
+}
+.platinum-menu i {
+  margin-left: 10px;
+  vertical-align: text-top;
+}
+.menu-item h6 {
+  color: #fff;
+  text-align: initial;
+  margin-left: 5px;
+}
+.menu-item span {
+  line-height: 12px;
+}
